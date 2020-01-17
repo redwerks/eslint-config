@@ -30,6 +30,6 @@ module.exports = {
 
 Some optional features are published as separate packages because they use extra eslint packages.
 
-- TypeScript support: @redwerks/eslint-config-typescript
-- React support: @redwerks/eslint-config-react
-- Jest support: @redwerks/eslint-config-jest
+- TypeScript support: [`@redwerks/eslint-config-typescript`](https://github.com/redwerks/eslint-config/tree/master/packages/eslint-config-typescript)
+- React support: [`@redwerks/eslint-config-react`](https://github.com/redwerks/eslint-config/tree/master/packages/eslint-config-react)
+- Jest support: [`@redwerks/eslint-config-jest`](https://github.com/redwerks/eslint-config/tree/master/packages/eslint-config-jest)

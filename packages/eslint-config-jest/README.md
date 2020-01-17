@@ -2,7 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/redwerks/eslint-config-jest) ![devDeps](https://img.shields.io/david/dev/redwerks/eslint-config-jest?path=packages%2Feslint-config-jest) ![peerDeps](https://img.shields.io/david/peer/redwerks/eslint-config?path=packages%2Feslint-config-jest)
 
-Jest extensions for @redwerks/eslint-config.
+Jest extensions for [@redwerks/eslint-config](https://github.com/redwerks/eslint-config/tree/master/packages/eslint-config).
 
 ## Usage
 
