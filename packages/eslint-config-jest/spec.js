@@ -3,7 +3,7 @@ module.exports = {
   plugins: ['jest'],
   overrides: [
     {
-      files: ['**/*.spec.js'],
+      files: ['**/*.spec.*'],
       env: {
         'jest/globals': true
       },

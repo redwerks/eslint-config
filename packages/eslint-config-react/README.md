@@ -1,11 +1,19 @@
 # `@redwerks/eslint-config-react`
 
-> TODO: description
+React extensions for @redwerks/eslint-config.
 
 ## Usage
 
-```
-const eslintConfigReact = require('@redwerks/eslint-config-react');
+### `.eslintrc.js`
 
-// TODO: DEMONSTRATE API
+```js
+module.exports = {
+  root: true,
+  env: {
+    // Customize with the environments your project is run in
+    // browser: true,
+    // node: true,
+  },
+  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-react']
+};
 ```

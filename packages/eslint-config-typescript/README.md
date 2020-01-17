@@ -1,11 +1,36 @@
 # `@redwerks/eslint-config-typescript`
 
-> TODO: description
+TypeScript extensions for @redwerks/eslint-config.
 
 ## Usage
 
-```
-const eslintConfigTypescript = require('@redwerks/eslint-config-typescript');
+### `.eslintrc.js`
 
-// TODO: DEMONSTRATE API
+```js
+module.exports = {
+  root: true,
+  env: {
+    // Customize with the environments your project is run in
+    // browser: true,
+    // node: true,
+  },
+  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-typescript']
+};
+```
+
+Monorepo projects may need to configure `tsconfigRootDir` manually.
+
+```js
+module.exports = {
+  root: true,
+  env: {
+    // Customize with the environments your project is run in
+    // browser: true,
+    // node: true,
+  },
+  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-typescript'],
+  parserOptions: {
+    tsconfigRootDir: __dirname
+  }
+};
 ```
