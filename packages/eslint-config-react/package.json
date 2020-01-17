@@ -1,6 +1,6 @@
 {
   "name": "@redwerks/eslint-config-react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React extensions for @redwerks/eslint-config",
   "keywords": [
     "eslint",
@@ -23,7 +23,7 @@
     "url": "https://github.com/redwerks/eslint-config/issues"
   },
   "devDependencies": {
-    "@redwerks/eslint-config": "^0.1.0",
+    "@redwerks/eslint-config": "^0.2.0",
     "eslint-plugin-react": "^7.18.0"
   },
   "peerDependencies": {
