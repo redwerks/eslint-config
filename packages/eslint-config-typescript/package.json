@@ -1,0 +1,25 @@
+{
+  "name": "@redwerks/eslint-config-typescript",
+  "version": "0.0.0",
+  "description": "TypeScript extensions for @redwerks/eslint-config",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "typescript"
+  ],
+  "author": "Redwerks (https://redwerks.org/)",
+  "contributors": [
+    "Daniel Friesen <d@danf.ca>"
+  ],
+  "homepage": "https://github.com/redwerks/eslint-config#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redwerks/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/redwerks/eslint-config/issues"
+  }
+}

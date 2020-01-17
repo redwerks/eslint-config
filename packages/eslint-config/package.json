@@ -1,0 +1,24 @@
+{
+  "name": "@redwerks/eslint-config",
+  "version": "0.0.0",
+  "description": "Simple eslint configuration used by Redwerks",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "author": "Redwerks (https://redwerks.org/)",
+  "contributors": [
+    "Daniel Friesen <d@danf.ca>"
+  ],
+  "homepage": "https://github.com/redwerks/eslint-config#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redwerks/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/redwerks/eslint-config/issues"
+  }
+}

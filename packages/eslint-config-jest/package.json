@@ -1,0 +1,24 @@
+{
+  "name": "@redwerks/eslint-config-jest",
+  "version": "0.0.0",
+  "description": "Jest extensions for @redwerks/eslint-config",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "jest"
+  ],
+  "author": "Redwerks (https://redwerks.org/)",
+  "contributors": [
+    "Daniel Friesen <d@danf.ca>"
+  ],
+  "homepage": "https://github.com/redwerks/eslint-config#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redwerks/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/redwerks/eslint-config/issues"
+  }
+}
