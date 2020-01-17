@@ -1,6 +1,6 @@
 # `@redwerks/eslint-config`
 
-![npm](https://img.shields.io/npm/v/redwerks/eslint-config) ![devDeps](https://img.shields.io/david/dev/redwerks/eslint-config?path=packages%2Feslint-config) ![peerDeps](https://img.shields.io/david/peer/redwerks/eslint-config?path=packages%2Feslint-config)
+[![npm](https://img.shields.io/npm/v/redwerks/eslint-config)](https://www.npmjs.com/package/@redwerks/eslint-config) ![devDeps](https://img.shields.io/david/dev/redwerks/eslint-config?path=packages%2Feslint-config) ![peerDeps](https://img.shields.io/david/peer/redwerks/eslint-config?path=packages%2Feslint-config)
 
 Simple eslint configuration used by Redwerks.
 
