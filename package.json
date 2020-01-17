@@ -14,7 +14,8 @@
   },
   "scripts": {
     "bootstrap": "lerna bootstrap --use-workspaces",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "pretty": "prettier --write '*.js' json"
   },
   "engines": {
     "npm": "use yarn"
