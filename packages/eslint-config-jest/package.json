@@ -14,6 +14,9 @@
   ],
   "homepage": "https://github.com/redwerks/eslint-config#readme",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/redwerks/eslint-config.git"
