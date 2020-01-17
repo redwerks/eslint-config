@@ -1,5 +1,7 @@
 # `@redwerks/eslint-config-typescript`
 
+![npm](https://img.shields.io/npm/v/redwerks/eslint-config-typescript) ![devDeps](https://img.shields.io/david/dev/redwerks/eslint-config-typescript?path=packages%2Feslint-config-typescript) ![peerDeps](https://img.shields.io/david/peer/redwerks/eslint-config?path=packages%2Feslint-config-typescript)
+
 TypeScript extensions for @redwerks/eslint-config.
 
 ## Usage
