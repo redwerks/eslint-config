@@ -21,5 +21,17 @@
   },
   "bugs": {
     "url": "https://github.com/redwerks/eslint-config/issues"
+  },
+  "devDependencies": {
+    "@redwerks/eslint-config": "*",
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "typescript": "^3.7.5"
+  },
+  "peerDependencies": {
+    "@redwerks/eslint-config": "*",
+    "@typescript-eslint/eslint-plugin": "^2",
+    "@typescript-eslint/parser": "^2",
+    "typescript": "^*"
   }
 }

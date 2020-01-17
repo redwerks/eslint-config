@@ -20,5 +20,13 @@
   },
   "bugs": {
     "url": "https://github.com/redwerks/eslint-config/issues"
+  },
+  "devDependencies": {
+    "@redwerks/eslint-config": "*",
+    "eslint-plugin-jest": "^23.6.0"
+  },
+  "peerDependencies": {
+    "@redwerks/eslint-config": "*",
+    "eslint-plugin-jest": ">= 23"
   }
 }
