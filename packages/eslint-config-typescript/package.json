@@ -1,6 +1,6 @@
 {
   "name": "@redwerks/eslint-config-typescript",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "TypeScript extensions for @redwerks/eslint-config",
   "keywords": [
     "eslint",
@@ -26,7 +26,7 @@
     "url": "https://github.com/redwerks/eslint-config/issues"
   },
   "devDependencies": {
-    "@redwerks/eslint-config": "^0.2.1",
+    "@redwerks/eslint-config": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
     "typescript": "^3.7.5"

@@ -1,6 +1,6 @@
 {
   "name": "@redwerks/eslint-config-jest",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Jest extensions for @redwerks/eslint-config",
   "keywords": [
     "eslint",
@@ -25,7 +25,7 @@
     "url": "https://github.com/redwerks/eslint-config/issues"
   },
   "devDependencies": {
-    "@redwerks/eslint-config": "^0.2.1",
+    "@redwerks/eslint-config": "^1.0.0",
     "eslint-plugin-jest": "^23.9.0"
   },
   "peerDependencies": {
