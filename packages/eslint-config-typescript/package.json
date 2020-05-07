@@ -27,8 +27,8 @@
   },
   "devDependencies": {
     "@redwerks/eslint-config": "^0.2.1",
-    "@typescript-eslint/eslint-plugin": "^2.16.0",
-    "@typescript-eslint/parser": "^2.16.0",
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
     "typescript": "^3.7.5"
   },
   "peerDependencies": {

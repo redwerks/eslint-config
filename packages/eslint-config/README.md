@@ -22,7 +22,7 @@ module.exports = {
     // browser: true,
     // node: true,
   },
-  extends: ['@redwerks/eslint-config']
+  extends: ['@redwerks/eslint-config'],
 };
 ```
 

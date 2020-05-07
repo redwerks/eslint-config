@@ -5,17 +5,17 @@ module.exports = {
     {
       files: ['__tests__'],
       env: {
-        'jest/globals': true
+        'jest/globals': true,
       },
       rules: {
         'jest/consistent-test-it': [
           'error',
           {
-            fn: 'it'
-          }
-        ]
+            fn: 'it',
+          },
+        ],
         // @todo Extend eslint-plugin-jest recommended configs here
-      }
-    }
-  ]
+      },
+    },
+  ],
 };

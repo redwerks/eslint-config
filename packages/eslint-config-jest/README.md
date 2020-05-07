@@ -20,8 +20,8 @@ module.exports = {
   },
   extends: [
     '@redwerks/eslint-config',
-    '@redwerks/eslint-config-jest/tests-folder'
-  ]
+    '@redwerks/eslint-config-jest/tests-folder',
+  ],
 };
 ```
 
@@ -35,6 +35,6 @@ module.exports = {
     // browser: true,
     // node: true,
   },
-  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-jest/spec']
+  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-jest/spec'],
 };
 ```

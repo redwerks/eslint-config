@@ -1,11 +1,11 @@
 module.exports = {
   extends: [
     'plugin:@typescript-eslint/recommended',
-    'prettier/@typescript-eslint'
+    'prettier/@typescript-eslint',
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
-    project: './tsconfig.json'
+    project: './tsconfig.json',
   },
   plugins: ['@typescript-eslint'],
   rules: {
@@ -15,10 +15,10 @@ module.exports = {
         // There's no good reason to be strict about return types where it's already explicitly defined elsewhere
         allowExpressions: true,
         allowTypedFunctionExpressions: true,
-        allowHigherOrderFunctions: true
-      }
+        allowHigherOrderFunctions: true,
+      },
     ],
     // There are perfectly good reasons to write empty functions
-    '@typescript-eslint/no-empty-function': 'off'
-  }
+    '@typescript-eslint/no-empty-function': 'off',
+  },
 };

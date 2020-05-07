@@ -16,7 +16,7 @@ module.exports = {
     // browser: true,
     // node: true,
   },
-  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-typescript']
+  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-typescript'],
 };
 ```
 
@@ -32,7 +32,7 @@ module.exports = {
   },
   extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-typescript'],
   parserOptions: {
-    tsconfigRootDir: __dirname
-  }
+    tsconfigRootDir: __dirname,
+  },
 };
 ```

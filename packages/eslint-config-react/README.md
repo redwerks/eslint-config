@@ -16,6 +16,6 @@ module.exports = {
     // browser: true,
     // node: true,
   },
-  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-react']
+  extends: ['@redwerks/eslint-config', '@redwerks/eslint-config-react'],
 };
 ```
