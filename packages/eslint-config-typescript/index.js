@@ -17,6 +17,8 @@ module.exports = {
         allowTypedFunctionExpressions: true,
         allowHigherOrderFunctions: true
       }
-    ]
+    ],
+    // There are perfectly good reasons to write empty functions
+    '@typescript-eslint/no-empty-function': 'off'
   }
 };
