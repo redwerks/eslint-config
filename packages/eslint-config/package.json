@@ -34,6 +34,6 @@
     "eslint-config-prettier": "^6",
     "eslint-plugin-eslint-comments": "^3",
     "eslint-plugin-prettier": "^3",
-    "prettier": "^1"
+    "prettier": "^2"
   }
 }
