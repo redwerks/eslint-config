@@ -1,6 +1,6 @@
 {
   "name": "@redwerks/eslint-config-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript extensions for @redwerks/eslint-config",
   "keywords": [
     "eslint",
